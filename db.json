@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "A trip to the Hawaiian Islands",
+      "day": "May 11th 11:30pm",
+      "reminder": false,
+      "id": 1
+    },
+    {
+      "text": "Business meeting",
+      "day": "May 9th 9:30pm",
+      "reminder": false,
+      "id": 2
+    },
+    {
+      "text": "A meeting with friends",
+      "day": "May 7th 1:30pm",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
